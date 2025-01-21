@@ -1,3 +1,5 @@
+![Face Detection Animation](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
 # Face Detection with OpenCV
 
 This project demonstrates real-time face detection using OpenCV. The application uses a webcam to detect faces and highlights them with a blue rectangular frame. Additionally, the video feed is mirrored for a more natural interaction.

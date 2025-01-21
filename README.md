@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/OpenCV_Logo_with_text_svg_version.svg" alt="OpenCV Logo" width="150" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/OpenCV_Logo_2015.png" alt="OpenCV Logo" width="150" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="150" />
 </p>

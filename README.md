@@ -1,11 +1,10 @@
+# Face Detection with OpenCV
+
 <p align="center">
   <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_black-2.png" alt="OpenCV Logo" width="150" />
   &nbsp;&nbsp;&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python Logo" width="150" />
 </p>
-
-
-# Face Detection with OpenCV
 
 This project demonstrates real-time face detection using OpenCV. The application uses a webcam to detect faces and highlights them with a blue rectangular frame. Additionally, the video feed is mirrored for a more natural interaction.
 
